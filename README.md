@@ -1,3 +1,20 @@
 # Python-Object Oriented Programming
 
-![alt text](https://github.com/Yogesh-S/Python-OOP/blob/main/Instructions.JPG?raw=true)
+
+### OOP Fundamentals
+- Classes and objects
+- Attributes and methods
+### Inheritance and Polymorphism.
+- Class inheritance
+- Polymorphism
+- Class-level data
+
+### Integrating with Standard Python
+- Object equality
+- String representation
+- Exceptions
+
+### Best practices of class design
+- Designing for inheritance (Liskov substitution principle)
+- Levels of data access
+- Properties
